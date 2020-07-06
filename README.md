@@ -22,6 +22,6 @@ objective is to identify (predict) different fashion products from the given ima
 best possible CNN Models and compare their results (performance measures/scores) to arrive at
 the best Deep learning model.  
   
-- Designed 1 layer-CNN, 3 layer-CNN and 4 layer-CNN along with additional regularizations such as dropouts and max-pooling in Keras.
+- Designed 1 layer-CNN, 3 layer-CNN and 4 layer-CNN,Pre-trained RESNET 50 and vgg19 along with additional regularizations such as dropouts and max-pooling in Keras.
 - Performance analysis of the designed CNNs considering accuracy and overfitting cases.
 
